@@ -1,0 +1,6 @@
+Feature,Count,% of Missing,Card,Mode,Mode Freq,Mode %,2nd Mode,2nd Mode Freq,2nd Mode %
+Creator Gender,591,53.13028764805414,3,Male,494,83.59,Female,78,13.2
+Language of the Video,884,2.3755656108597285,19,English,542,61.31,Hindi,183,20.7
+Video Description,905,0.0,3,Yes,858,94.81,No,46,5.08
+Maximum Quality of the Video,905,0.0,7,1080,690,76.24,2160,141,15.58
+Premiered or Not,905,0.0,3,No,804,88.84,Yes,100,11.05
